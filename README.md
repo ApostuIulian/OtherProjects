@@ -8,6 +8,6 @@
   
 # VHDL
 
-- Intersection with trafficlights and sensors
+- Intersection with traffic lights and sensors
 - MIPS16 and MIPS16 Pipeline (Basys 3 Artix-7 FPGA)
   
