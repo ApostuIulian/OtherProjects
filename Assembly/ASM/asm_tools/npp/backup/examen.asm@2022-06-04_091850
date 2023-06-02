@@ -1,0 +1,41 @@
+.586
+.model flat, stdcall
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;includem biblioteci, si declaram ce functii vrem sa importam
+includelib msvcrt.lib
+extern exit: proc
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;declaram simbolul start ca public - de acolo incepe executia
+public start
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;sectiunile programului, date, respectiv cod
+.data
+;aici declaram date
+a dd 1
+b dd 2
+ca dd 3
+d dd 4
+i dd 4
+x dd 0
+.code
+suma endp
+start:
+	;aici se scrie codul
+
+; push d
+; push ca
+; push b
+; push a
+; call suma
+; add esp, 12	
+push i
+call rad
+add esp, 4
+
+	;terminarea programului
+	push 0
+	call exit
+end start
