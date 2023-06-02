@@ -1,0 +1,85 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Mon May 22 13:49:31 2023
+# Process ID: 4224
+# Current directory: D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14840 D:\Faculta\ArhitecturaCalculatoarelor\Projects\mips16PipelineFinalV1\mips16PipelineFinalV1.xpr
+# Log file: D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/vivado.log
+# Journal file: D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.xpr
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+open_hw
+close_hw
+launch_runs impl_1 -jobs 8
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+open_hw
+connect_hw_server
+open_hw_target
+disconnect_hw_server localhost:3121
+connect_hw_server
+open_hw_target
+disconnect_hw_server localhost:3121
+connect_hw_server
+open_hw_target
+disconnect_hw_server localhost:3121
+connect_hw_server
+open_hw_target
+set_property PROBES.FILE {} [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROGRAM.FILE {D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.runs/impl_1/test_env.bit} [lindex [get_hw_devices xc7a35t_0] 0]
+program_hw_devices [lindex [get_hw_devices xc7a35t_0] 0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+launch_simulation
+source test_env.tcl
+add_force {/test_env/clk} -radix bin {0 0ns} {1 50000ps} -repeat_every 100000ps
+add_force {/test_env/sw} -radix bin {0000000010100000 0ns}
+add_force {/test_env/en} -radix bin {1 0ns}
+run 20000 ns
+close_sim
+close_hw
+launch_simulation
+source test_env.tcl
+restart
+add_force {/test_env/clk} -radix bin {0 0ns} {1 50000ps} -repeat_every 100000ps
+add_force {/test_env/sw} -radix bin {0000000010100000 0ns}
+add_force {/test_env/en} -radix bin {1 0ns}
+run 10000 ns
+save_wave_config {D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/simPipe.wcfg}
+add_files -fileset sim_1 -norecurse D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/simPipe.wcfg
+set_property xsim.view D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/simPipe.wcfg [get_filesets sim_1]
+open_hw
+connect_hw_server
+open_hw_target
+disconnect_hw_server localhost:3121
+connect_hw_server
+open_hw_target
+close_hw
+open_hw
+connect_hw_server
+open_hw_target
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run impl_1 -prev_step 
+close_hw
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.runs/impl_1/test_env.bit} [lindex [get_hw_devices xc7a35t_0] 0]
+current_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROGRAM.FILE {D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.runs/impl_1/test_env.bit} [lindex [get_hw_devices xc7a35t_0] 0]
+program_hw_devices [lindex [get_hw_devices xc7a35t_0] 0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+close_sim

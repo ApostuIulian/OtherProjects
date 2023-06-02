@@ -1,0 +1,16 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/DataMem.vhd,1683747932,vhdl,,,,datamemory,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/EX_MEM_Reg.vhd,1683742985,vhdl,,,,ex_mem_reg,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/ID_EX_Reg.vhd,1683745597,vhdl,,,,id_ex_reg,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/IDecode.vhd,1684663004,vhdl,,,,idecode,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/IF_ID_Reg.vhd,1683742921,vhdl,,,,if_id_reg,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/IFetch.vhd,1684664903,vhdl,,,,ifetch,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/MEM_WB_Reg.vhd,1683743001,vhdl,,,,mem_wb_reg,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/MPG.vhd,1682615922,vhdl,,,,mpg,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/MainControl.vhd,1682779782,vhdl,,,,maincontrol,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/SSD.vhd,1682612746,vhdl,,,,ssd,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/UE.vhd,1683747641,vhdl,,,,executionunit,,,,,,,,
+D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips16PipelineFinalV1/mips16PipelineFinalV1.srcs/sources_1/new/test_env.vhd,1684749630,vhdl,,,,test_env,,,,,,,,

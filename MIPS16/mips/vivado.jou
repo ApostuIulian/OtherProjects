@@ -1,0 +1,155 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sat Apr 29 12:43:01 2023
+# Process ID: 12080
+# Current directory: D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11820 D:\Faculta\ArhitecturaCalculatoarelor\Projects\mips\mips.xpr
+# Log file: D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips/vivado.log
+# Journal file: D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Faculta/ArhitecturaCalculatoarelor/Projects/mips/mips.xpr
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+launch_runs impl_1 -jobs 8
+wait_on_run impl_1
+open_run impl_1
+close_design
+launch_simulation
+source test_env.tcl
+add_force {/test_env/sw} -radix bin {0000000010100000 0ns}
+add_force {/test_env/clk} -radix bin {1 0ns} {0 50000ps} -repeat_every 100000ps
+run 500 ns
+add_force {/test_env/btn[0]} -radix hex {1 0ns} {0 50000ps} -repeat_every 100000ps
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+add_force {/test_env/btn} -radix bin {1 0ns} {0 50000ps} -repeat_every 100000ps
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+add_force {/test_env/en} -radix bin {1 0ns}
+run all
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+restart
+add_force {/test_env/clk} -radix bin {1 0ns} {0 50000ps} -repeat_every 100000ps
+add_force {/test_env/btn[4]} -radix bin {0 0ns}
+add_force {/test_env/btn[3]} -radix bin {0 0ns}
+add_force {/test_env/btn[2]} -radix bin {0 0ns}
+add_force {/test_env/btn[1]} -radix bin {0 0ns}
+add_force {/test_env/btn[0]} -radix bin {1 0ns} {0 50000ps} -repeat_every 100000ps
+add_force {/test_env/sw} -radix bin {0000000010100000 0ns}
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+add_force {/test_env/en} -radix bin {1 0ns}
+add_force {/test_env/rst} -radix bin {0 0ns}
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+close_sim
+launch_simulation
+source test_env.tcl
+add_force {/test_env/clk} -radix bin {1 0ns} {0 50000ps} -repeat_every 100000ps
+add_force {/test_env/sw} -radix bin {0000000010100000 0ns}
+add_force {/test_env/en} -radix bin {1 0ns}
+add_force {/test_env/rst} -radix bin {0 0ns}
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+run 500 ns
+create_project fibo D:/Faculta/ArhitecturaCalculatoarelor/Projects/fibo -part xc7a35tcpg236-1
+add_files -norecurse {C:/Users/apost/Desktop/ExecutionUnit.vhd C:/Users/apost/Desktop/lab7_4.vhd C:/Users/apost/Desktop/IFetch.vhd C:/Users/apost/Desktop/MEM.vhd C:/Users/apost/Desktop/MPG.vhd C:/Users/apost/Desktop/IDecode.vhd C:/Users/apost/Desktop/SSD.vhd C:/Users/apost/Desktop/MainControl.vhd}
+launch_simulation
+source lab7_4.tcl
+add_force {/lab7_4/clk} -radix bin {1 0ns} {0 50000ps} -repeat_every 100000ps
+add_force {/lab7_4/btn[0]} -radix bin {1 0ns} {0 50000ps} -repeat_every 100000ps
+add_force {/lab7_4/btn[1]} -radix bin {0 0ns}
+add_force {/lab7_4/btn[2]} -radix bin {0 0ns}
+add_force {/lab7_4/btn[3]} -radix bin {0 0ns}
+add_force {/lab7_4/btn[4]} -radix bin {0 0ns}
+add_force {/lab7_4/sw} -radix bin {0000000010100000 0ns}
+add_force {/lab7_4/rst} -radix bin {0 0ns}
+run 10000 ns
+close_sim
+close_project
+close_sim
