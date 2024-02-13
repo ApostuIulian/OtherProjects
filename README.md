@@ -1,5 +1,10 @@
 # OtherProjects
 
+# Study Platform
+
+  JavaScript Node.js with Express and SQL. PUG (front-end).
+  Check documentation for details.
+
 # Assembly TIC TAC TOE
 
   How to run:
