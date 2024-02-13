@@ -3,7 +3,7 @@
 # Study Platform
 
   JavaScript Node.js with Express and SQL. PUG (front-end).
-  Check documentation for details.
+  Check documentation for details (Portal Academin.pptx).
 
 # Assembly TIC TAC TOE
 
