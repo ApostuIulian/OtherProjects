@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assignment1.BL.Comanda">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAIAAAgA=</HashCode>
+      <FileName>BL\Comanda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.BL.ExecuteQueries">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEARAAQAAAAACACgAAAgAAAAIABAAAAAACQAAACAAAA=</HashCode>
+      <FileName>BL\ExecuteQueries.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="q" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Assignment1.BL.PasswordSecurity">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAQAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\PasswordSecurity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.BL.Preparat">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAABAAgA=</HashCode>
+      <FileName>BL\Preparat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.Database">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAQEAhAEAAAQAKAAAQBgAA=</HashCode>
+      <FileName>DB\Database.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="instance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Assignment1.Form1">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAACAAACIAAACAAAABAAAABAAAA=</HashCode>
+      <FileName>UI\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.Program">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.DB.Queries">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QGAABAAAAAAAAAACAAAAAgAAAgAAEAAQAACAEAABAAQ=</HashCode>
+      <FileName>DB\Queries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.UI.AdminMenu">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MAAAAAQgADBAARAAgACgICECIBA4RAAAIAEIAATIJAQ=</HashCode>
+      <FileName>UI\AdminMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="query" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Assignment1.UI.EmployeeMenu">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAEBQCADAAABBAAACACgACABE4BAAAAEAIAQAAAAA=</HashCode>
+      <FileName>UI\EmployeeMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="query" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

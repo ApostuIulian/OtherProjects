@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Faculta\\PS\\Assignements\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|d:\\faculta\\ps\\assignements\\assignment1\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\db\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:db\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\db\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:db\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\ui\\employeemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:ui\\employeemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|d:\\faculta\\ps\\assignements\\assignment1\\bl\\passwordsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:bl\\passwordsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\bl\\executequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:bl\\executequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\bl\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:bl\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\bl\\preparat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:bl\\preparat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\ui\\employeemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:ui\\employeemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\ui\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:ui\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|D:\\Faculta\\PS\\Assignements\\Assignment1\\ui\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B6C99F8-F49D-4104-B7D0-4B5947D0ADC2}|Assignment1.csproj|solutionrelative:ui\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\DB\\Database.cs",
+              "RelativeDocumentMoniker": "DB\\Database.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\DB\\Database.cs",
+              "RelativeToolTip": "DB\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:43:50.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\DB\\Queries.cs",
+              "RelativeDocumentMoniker": "DB\\Queries.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\DB\\Queries.cs",
+              "RelativeToolTip": "DB\\Queries.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:13:44.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "ClassDiagram.cd",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\ClassDiagram.cd",
+              "RelativeToolTip": "ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-17T18:31:20.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordSecurity.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\BL\\PasswordSecurity.cs",
+              "RelativeDocumentMoniker": "BL\\PasswordSecurity.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\BL\\PasswordSecurity.cs",
+              "RelativeToolTip": "BL\\PasswordSecurity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:57:00.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Preparat.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\BL\\Preparat.cs",
+              "RelativeDocumentMoniker": "BL\\Preparat.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\BL\\Preparat.cs",
+              "RelativeToolTip": "BL\\Preparat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:56:41.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:55:05.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:30:59.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:30:54.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "UI\\AdminMenu.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\AdminMenu.cs",
+              "RelativeToolTip": "UI\\AdminMenu.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAUwHsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:48:01.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExecuteQueries.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\BL\\ExecuteQueries.cs",
+              "RelativeDocumentMoniker": "BL\\ExecuteQueries.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\BL\\ExecuteQueries.cs",
+              "RelativeToolTip": "BL\\ExecuteQueries.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwE8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:11:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\EmployeeMenu.cs",
+              "RelativeDocumentMoniker": "UI\\EmployeeMenu.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\EmployeeMenu.cs [Design]",
+              "RelativeToolTip": "UI\\EmployeeMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:44:04.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comanda.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\BL\\Comanda.cs",
+              "RelativeDocumentMoniker": "BL\\Comanda.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\BL\\Comanda.cs",
+              "RelativeToolTip": "BL\\Comanda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:12:18.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeMenu.cs",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\EmployeeMenu.cs",
+              "RelativeDocumentMoniker": "UI\\EmployeeMenu.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\EmployeeMenu.cs",
+              "RelativeToolTip": "UI\\EmployeeMenu.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwHYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:22:40.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "UI\\AdminMenu.cs",
+              "ToolTip": "D:\\Faculta\\PS\\Assignements\\Assignment1\\UI\\AdminMenu.cs [Design]",
+              "RelativeToolTip": "UI\\AdminMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:13:48.427Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
