@@ -5,6 +5,9 @@
   JavaScript Node.js with Express and SQL. PUG (front-end).
   Check documentation for details (Portal Academin.pptx).
 
+# Restaurant Management
+  Application in C# .NET with MySQL for dbms and Windows Form Application for UI
+
 # Assembly TIC TAC TOE
 
   How to run:
