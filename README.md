@@ -6,7 +6,7 @@
   Check documentation for details (Portal Academin.pptx).
 
 # Restaurant Management
-  Application in C# .NET with MySQL for dbms and Windows Form Application for UI
+  Application in C# with MySQL for dbms and Windows Form Application for UI
 
 # Assembly TIC TAC TOE
 
