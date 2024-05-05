@@ -3,7 +3,7 @@
 # Study Platform
 
   JavaScript Node.js with Express and SQL. PUG (front-end).
-  Check documentation for details (Portal Academin.pptx).
+  Check documentation for details (Portal Academic.pptx).
 
 # Restaurant Management
   Application in C# with MySQL for dbms and Windows Form Application for UI
