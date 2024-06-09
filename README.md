@@ -7,7 +7,7 @@
   (Unfinished project)
 
 # Restaurant Management
-  Application in C# with MySQL for dbms and Windows Form Application for UI
+  Application in C# with MySQL for dbms and Windows Form Application.
 
 # Assembly TIC TAC TOE
 
